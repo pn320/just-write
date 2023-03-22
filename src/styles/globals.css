@@ -2,6 +2,21 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: 'Iosevka';
+  src: url('/fonts/iosevka-medium.ttc');
+}
+
+@font-face {
+  font-family: 'Museta';
+  src: url('/fonts/musetta-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Neue Haas';
+  src: url('/fonts/neue-haas-thin.ttf');
+}
+
 * {
   box-sizing: border-box;
   padding: 0;
@@ -12,7 +27,7 @@ html,
 body {
   max-width: 100vw;
   overflow-x: hidden;
-  background-color: theme('colors.black.background');
+  background-color: theme('colors.black');
 }
 
 a {

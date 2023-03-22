@@ -4,9 +4,12 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        black: {
-          background: '#141414',
-        },
+        primary_white: '#dadada',
+      },
+      fontFamily: {
+        serif: 'Museta, ui-serif, Georgia, serif',
+        mono: 'Iosevka, ui-monospace, Menlo, Monaco, "Segoe UI Mono", "Roboto Mono", monospace',
+        sans: 'Neue Haas, system-ui, -apple-system, sans-serif',
       },
     },
   },
