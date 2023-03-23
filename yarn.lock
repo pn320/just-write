@@ -274,6 +274,11 @@
     "@typescript-eslint/types" "5.56.0"
     eslint-visitor-keys "^3.3.0"
 
+"@use-it/interval@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@use-it/interval/-/interval-1.0.0.tgz#c42c68f22ca29a0dc929041746373d94496d2b3a"
+  integrity sha512-WQFcnSt/xM/mS8ZtJ0ut5lhPrl+V0HDPPcI/J0eUClsfiD+/r8A7IeW/pVcfpSVGWRmN3+WnjNteWuKyWs2WZg==
+
 acorn-jsx@^5.3.2:
   version "5.3.2"
   resolved "https://registry.yarnpkg.com/acorn-jsx/-/acorn-jsx-5.3.2.tgz#7ed5bb55908b3b2f1bc55c6af1653bada7f07937"
@@ -2182,6 +2187,11 @@ synckit@^0.8.4:
   dependencies:
     "@pkgr/utils" "^2.3.1"
     tslib "^2.5.0"
+
+tailwindcss-dotted-background@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/tailwindcss-dotted-background/-/tailwindcss-dotted-background-1.0.1.tgz#40ceb52310867ca3c26a78aff5d8683ee004d83e"
+  integrity sha512-GvT2O9mKq6tdM958Cyhmm0omV+LuF/wYusHi2SNhZjB2Ft2WLnEQt7QR7ByzUJ2fT94qnW86Mib4tHTJYRLgTA==
 
 tailwindcss@^3.2.7:
   version "3.2.7"
