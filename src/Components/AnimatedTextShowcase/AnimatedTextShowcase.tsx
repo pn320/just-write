@@ -13,7 +13,7 @@ export function AnimatedTextShowcase() {
   }, 2000);
 
   return (
-    <div className="mx-auto relative overflow-hidden">
+    <div className="text-primary_white/90 text-2xl lg:text-4xl mx-auto relative overflow-hidden">
       <Link
         href="/writer"
         className="text-gray-700 hover:text-primary_white/90 transition duration-150 ease-in"

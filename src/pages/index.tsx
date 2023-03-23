@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
       <main
         className={
-          'font-sans text-primary_white/90 text-4xl flex justify-center items-center min-h-screen bg-dotted-spacing-6 bg-dotted-gray-600/60'
+          'font-sans flex justify-center items-center min-h-screen bg-dotted-spacing-6 bg-dotted-gray-600/60'
         }
       >
         <AnimatedTextShowcase />
