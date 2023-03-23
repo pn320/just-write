@@ -11,7 +11,9 @@ export default function Home() {
         <link rel="icon" href="/images/favicon.ico" />
       </Head>
       <main
-        className={'font-sans flex justify-center items-center min-h-screen'}
+        className={
+          'font-sans flex justify-center items-center min-h-screen bg-dotted-spacing-6 bg-dotted-gray-800/70'
+        }
       >
         <AnimatedTextShowcase />
       </main>

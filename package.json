@@ -27,5 +27,6 @@
     "typescript": "5.0.2"
   },
   "devDependencies": {
+    "tailwindcss-dotted-background": "^1.0.1"
   }
 }
